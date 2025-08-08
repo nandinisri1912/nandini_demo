@@ -1,3 +1,3 @@
 # nandini_demo
-Author: Nandini Srivastava
+Author: Nandini Srivastava<br>
 First actual github repository
